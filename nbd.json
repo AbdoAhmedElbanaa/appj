@@ -6,16 +6,16 @@
   "app": {
     "status": true,
     "redirect_url": "",
-    "more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid",
-    "privacy_policy_url": "https://sites.google.com/view/blogger-news-app-privacy",
-    "publisher_info_url": "https://sites.google.com/view/blogger-news-app-publisher",
-    "terms_conditions_url": "https://sites.google.com/view/blogger-news-app-terms",
-    "email_feedback_and_report": "report.solodroid@gmail.com",
-    "category_column_count": 3,
+    "more_apps_url": "",
+    "privacy_policy_url": "https://www.nbdalhorya.com/p/policy.html",
+    "publisher_info_url": "https://www.nbdalhorya.com/p/about-us.html",
+    "terms_conditions_url": "https://www.nbdalhorya.com/p/contactus.html",
+    "email_feedback_and_report": "Mail.Nbdalhorya@gmail.com",
+    "category_column_count": 2,
     "new_app_design": true,
-    "show_page_menu": true,
+    "show_page_menu": false,
     "show_view_on_site_menu": true,
-    "show_post_list_in_large_style": false,
+    "show_post_list_in_large_style": true,
     "show_post_list_header": true,
     "show_post_list_short_description": true,
     "show_post_date": true,
@@ -26,11 +26,11 @@
     "enable_dark_mode_as_default_theme": false
   },
   "notification": {
-    "fcm_notification_topic": "blogger_news_app_topic",
-    "onesignal_app_id": "00000000-0000-0000-0000-000000000000"
+    "fcm_notification_topic": "notification_nbdalhorya",
+    "onesignal_app_id": "7c3c7263-d7bb-4e9b-bd40-6ef52757ffef"
   },
   "ads": {
-    "ad_status": true,
+    "ad_status": false,
     "main_ads": "admob",
     "backup_ads": "none",
     "admob_publisher_id": "pub-3940256099942544",
@@ -87,64 +87,32 @@
     "status": true,
     "categories": [
       {
-        "term": "Business",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/business.png"
+        "term": "أخبار عاجلة",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/news.webp"
       },
       {
-        "term": "Tourism",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/tourism.png"
+        "term": "سياسة",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/policy.webp"
       },
       {
-        "term": "Politics",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/politics.png"
+        "term": "حوادث",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/Incidents.webp"
       },
       {
-        "term": "Food",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/food.png"
+        "term": "تحقيقات",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/Investigations.webp"
       },
       {
-        "term": "News",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/news.png"
+        "term": "اقتصاد",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/economy.webp"
       },
       {
-        "term": "World",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/world.png"
+        "term": "محافظات",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/Governorates.webp"
       },
-      {
-        "term": "Sports",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/sports.png"
-      },
-      {
-        "term": "Football",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/football.png"
-      },
-      {
-        "term": "Technology",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/technology.png"
-      },
-      {
-        "term": "Android",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/android.png"
-      },
-      {
-        "term": "Health",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/health.png"
-      },
-      {
-        "term": "Finance",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/finance.png"
-      },
-      {
-        "term": "Entertainment",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/entertainment.png"
-      },
-      {
-        "term": "Gadget",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/gadget.png"
-      },
-      {
-        "term": "Travel",
-        "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/news/category/travel.png"
+       {
+        "term": "قريبا",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/10316083.webp"
       }
     ]
   }
