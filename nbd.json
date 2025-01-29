@@ -11,7 +11,7 @@
     "publisher_info_url": "https://www.nbdalhorya.com/p/about-us.html",
     "terms_conditions_url": "https://www.nbdalhorya.com/p/contactus.html",
     "email_feedback_and_report": "Mail.Nbdalhorya@gmail.com",
-    "category_column_count": 2,
+    "category_column_count": 3,
     "new_app_design": true,
     "show_page_menu": false,
     "show_view_on_site_menu": true,
@@ -22,7 +22,7 @@
     "show_related_post": true,
     "open_link_inside_app": true,
     "enable_exit_dialog": true,
-    "enable_rtl_mode": false,
+    "enable_rtl_mode": true,
     "enable_dark_mode_as_default_theme": false
   },
   "notification": {
