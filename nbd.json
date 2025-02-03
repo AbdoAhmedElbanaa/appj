@@ -87,32 +87,88 @@
     "status": true,
     "categories": [
       {
-        "term": "أخبار عاجلة",
-        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/news.webp"
+        "term": "فيديو",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/فيديو.png"
+      },
+      {
+        "term": "عاجل",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/عاجل.png"
       },
       {
         "term": "سياسة",
-        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/policy.webp"
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/سياسة.png"
+      },
+      {
+        "term": "تقارير",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/تقارير.png"
       },
       {
         "term": "حوادث",
-        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/Incidents.webp"
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/حوادث.png"
       },
       {
         "term": "تحقيقات",
-        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/Investigations.webp"
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/تحقيقات.png"
       },
       {
-        "term": "اقتصاد",
-        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/economy.webp"
+        "term": "أقتصاد",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/أقتصاد.png"
       },
       {
         "term": "محافظات",
-        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/Governorates.webp"
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/محافظات.png"
       },
-       {
-        "term": "قريبا",
-        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/nbdapp/10316083.webp"
+      {
+        "term": "أحزاب",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/أحزاب.png"
+      },
+      {
+        "term": "رياضة",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/رياضة.png"
+      },
+      {
+        "term": "أخبار التعليم",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/أخبار التعليم.png"
+      },
+      {
+        "term": "فنون وثقافة",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/فنون وثقافة.png"
+      },
+      {
+        "term": "أخبار عالمية",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/أخبار عالمية.png"
+      },
+      {
+        "term": "صحة",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/صحة.png"
+      },
+      {
+        "term": "سياحة وسفر",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/سياحة وسفر.png"
+      },
+      {
+        "term": "وظائف",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/وظائف.png"
+      },
+      {
+        "term": "أخبار البنوك",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/أخبار البنوك.png"
+      },
+      {
+        "term": "أقباط",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/أقباط.png"
+      },
+      {
+        "term": "تهنئة ومناسبات",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/تهنئة ومناسبات.png"
+      },
+      {
+        "term": "نعي ووفيات",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/نعي ووفيات.png"
+      },
+      {
+        "term": "عقارات",
+        "image": "https://raw.githubusercontent.com/AbdoAhmedElbanaa/appj/refs/heads/main/npdapp/عقارات.png"
       }
     ]
   }
